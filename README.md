@@ -1,2 +1,2 @@
 # java2net
-repo java2net lessions
+repo java2net lessons

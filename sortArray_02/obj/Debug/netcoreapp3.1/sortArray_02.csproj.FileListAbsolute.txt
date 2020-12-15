@@ -1,0 +1,13 @@
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.exe
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.deps.json
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.runtimeconfig.json
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.runtimeconfig.dev.json
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.dll
+C:\Users\ORLANDO\source\repos\sortArray_02\bin\Debug\netcoreapp3.1\sortArray_02.pdb
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.csprojAssemblyReference.cache
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.AssemblyInfoInputs.cache
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.AssemblyInfo.cs
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.dll
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.pdb
+C:\Users\ORLANDO\source\repos\sortArray_02\obj\Debug\netcoreapp3.1\sortArray_02.genruntimeconfig.cache

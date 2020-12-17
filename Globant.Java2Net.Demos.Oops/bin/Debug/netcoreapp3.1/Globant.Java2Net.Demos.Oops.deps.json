@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Globant.Java2Net.Demos.Oops/1.0.0": {
+        "runtime": {
+          "Globant.Java2Net.Demos.Oops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Globant.Java2Net.Demos.Oops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

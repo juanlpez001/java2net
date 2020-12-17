@@ -1,0 +1,13 @@
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.exe
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.deps.json
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.runtimeconfig.json
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.runtimeconfig.dev.json
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.dll
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\bin\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.pdb
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.csprojAssemblyReference.cache
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.AssemblyInfoInputs.cache
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.AssemblyInfo.cs
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.csproj.CoreCompileInputs.cache
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.dll
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.pdb
+C:\Users\ORLANDO\source\repos\Globant.Java2Net.Demos.Oops\obj\Debug\netcoreapp3.1\Globant.Java2Net.Demos.Oops.genruntimeconfig.cache
